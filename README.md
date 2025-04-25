@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  🧑‍💻 Web3 Engineer | ⚙️ Automation & Scripting | 🔗 ETH, SUI, Arbitrum, and Beyond
+</p>
 
-<!--
-**0xmugi/0xmugi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚧 Projects I'm Building
+- 🛠️ **MultiChain Sender** – Bulk transaction tool for ETH, ERC-20, SUI, and any EVM-compatible chain
+- 🤖 **t3rn Airdrop Bot** – Telegram bot that automates airdrop claiming + notifications
+- 🧬 **Fractal Scripts** – Blockchain pattern visualizer & data extractor for onchain analysis
+- 🧰 **DevTools for Onchain Ops** – Custom scripts for automation, wallet orchestration, and data scraping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--
