@@ -27,7 +27,7 @@ I'm a **Web3 Engineer** with a strong focus on **multichain** solutions. I work 
 
 ### 📫 Let's Connect
 - Twitter/X: [@0xmugi](https://x.com/0xmugi)
-- Telegram: `@0xmugi`
+- Telegram: `soon`
 - GitHub: You're here 😉
 
 ---
